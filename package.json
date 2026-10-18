@@ -7,7 +7,7 @@
         "@types/adm-zip": "^0.5.7",
         "@types/node": "latest",
         "@types/which": "^3.0.4",
-        "adm-zip": "^0.5.16",
+        "adm-zip": "^0.6.1",
         "chokidar": "^4.0.3",
         "dprint": "^0.50.2",
         "execa": "^9.6.1",
